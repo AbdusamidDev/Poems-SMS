@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/my_navigation_fragment.xml"
+    app:startDestination="@id/asosiyEkranFragmenti">
+    <fragment
+        android:id="@+id/asosiyEkranFragmenti"
+        android:name="developer.abdusamid.poems.AsosiyEkranFragmenti"
+        android:label="fragment_asosiy_ekran_fragmenti"
+        tools:layout="@layout/fragment_asosiy_ekran_fragmenti" />
+    <fragment
+        android:id="@+id/sherlar"
+        android:name="developer.abdusamid.poems.Sherlar"
+        android:label="fragment_sherlar"
+        tools:layout="@layout/fragment_sherlar" />
+    <fragment
+        android:id="@+id/dialogFragment"
+        android:name="developer.abdusamid.poems.DialogFragment"
+        android:label="fragment_dialog"
+        tools:layout="@layout/fragment_dialog" />
+    <fragment
+        android:id="@+id/smsJonatishUchunFragment"
+        android:name="developer.abdusamid.poems.SmsJonatishUchunFragment"
+        android:label="fragment_sms_jonatish_uchun"
+        tools:layout="@layout/fragment_sms_jonatish_uchun" />
+</navigation>

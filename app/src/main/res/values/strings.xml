@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SmsSherlar</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="sms_nsherlar">sms\nsherlar</string>
+    <string name="_122">122</string>
+    <string name="saqlanganlar">Saqlanganlar</string>
+    <string name="sevgi_sherlar">Sevgi
+Sherlar</string>
+    <string name="sher">Qaro ko\'zum, kelu mardumlug\' emdi fan qilg\'il,\nKo\'zum qarosida mardum kibi vatan qilg\'il.</string>
+    <string name="yangilar">News</string>
+    <string name="telephone">Telephone</string>
+    <string name="oshiq_derlar_meni">Oshiq derlar meni</string>
+</resources>
